@@ -4,7 +4,6 @@
 
 /**
  * main - generate random valid password
- *
  * Return: Always 0
  */
 int main(void)
